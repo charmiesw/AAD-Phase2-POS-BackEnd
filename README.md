@@ -1,4 +1,6 @@
-# AAD PHASE 02 - POS SYSTEM
+<div align = "center">
+  <h1>AAD PHASE 02 - POS SYSTEM</h1>
+</div>
 
 The POS System Backend is a comprehensive RESTful API built to efficiently support the various functionalities of a Point of Sale (POS) system. This backend service plays a crucial role in handling diverse aspects of the POS system, including:
 
